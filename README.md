@@ -15,3 +15,12 @@
 
 ## Data source:
 https://github.com/CSSEGISandData/COVID-19
+
+
+## Dashboard:
+
+![Covid-19 Global Dashboard](https://user-images.githubusercontent.com/121246169/235989105-3dac2cd0-e652-4621-8595-32ec88b0e8df.png)
+
+![Covid-19 Global Dashboard2](https://user-images.githubusercontent.com/121246169/235989889-2a988de8-fdaf-40d1-88d5-d9f9f37336d5.png)
+
+![Covid-19 Global Dashboard3](https://user-images.githubusercontent.com/121246169/235989217-33dfd31d-27dd-4ad2-bdb7-1d9f76f40295.png)
