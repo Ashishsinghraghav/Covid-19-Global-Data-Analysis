@@ -17,7 +17,7 @@
 https://github.com/CSSEGISandData/COVID-19
 
 
-## Dashboard:
+## Dashboard: Click here -> [Power BI](https://www.novypro.com/project/covid-19-global-dashboard-power-bi)
 
 ![Covid-19 Global Dashboard](https://user-images.githubusercontent.com/121246169/235989105-3dac2cd0-e652-4621-8595-32ec88b0e8df.png)
 
